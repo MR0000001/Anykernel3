@@ -12,7 +12,8 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=sweet
 device.name2=sweet2
-device.name3=sweet_k6a
+device.name3=sweetin
+device.name4=sweet_k6a
 supported.versions=11 - 15
 supported.patchlevels=
 '; } # end properties
